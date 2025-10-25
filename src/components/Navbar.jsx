@@ -4,7 +4,7 @@ import { useState } from "react";
 const navItems = [
     {name:"Home",href:"#"},
     {name:"About",href:"#about"},
-    {name:"Company",href:"#about"},
+    {name:"Company",href:"#company"},
     {name:"Services",href:"#services"},    
     {name:"Contact",href:"#contact"},
 ];
@@ -26,7 +26,7 @@ const Navbar = () => {
                     S
                 </div>
                 <span>
-                    ahara <span className="text-yellow-500">
+                    afari <span className="text-yellow-500">
                         Zoo
                     </span>
                 </span>
