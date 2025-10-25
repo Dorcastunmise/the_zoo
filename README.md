@@ -1,4 +1,5 @@
-![Screenshot 2025-10-19 202018](https://github.com/user-attachments/assets/d6376c18-fbf1-45cf-a3db-97487941d42f)
+SAFARI ZOO
+<video src="https://github.com/user-attachments/assets/e12d172d-e819-4f15-ba43-03f2a4ec0c00" width="352" height="500"></video>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
